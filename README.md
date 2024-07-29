@@ -228,15 +228,8 @@ Access the H2 Console at `http://localhost:8084/h2-console` after running the ap
 Contributions are welcome! Please submit a pull request or open an issue for any changes or suggestions.
 
 ## License
-This project is
-
- licensed under the MIT License. See the `LICENSE` file for more details.
+Copyright (c) 2024 Noa Gilboa | Yarden Cherry | Netanel Boris Cohen Niazov | Roei Hakmon | Daniel Suliman
 
 ## Acknowledgements
 Thank you to all contributors and supporters of this project.
 
-# FamilyCare360---server-side
-# FamilyCare360---server-side
-# FamilyCare360---server-side
-# FamilyCare360---server-side
-# FamilyCare360---server-side
