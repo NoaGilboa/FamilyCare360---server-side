@@ -233,3 +233,8 @@ Copyright (c) 2024 Noa Gilboa | Yarden Cherry | Netanel Boris Cohen Niazov | Roe
 ## Acknowledgements
 Thank you to all contributors and supporters of this project.
 
+## Video demonstration
+
+https://github.com/user-attachments/assets/3ebc4e3a-e7ff-40ec-9c1d-0d9e8c8528ed
+
+
